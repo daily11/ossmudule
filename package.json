@@ -13,7 +13,7 @@
   "author": "chenyixing",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.63.3"
   },
   "repository": {
      "type": "git",
