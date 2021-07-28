@@ -10,17 +10,13 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "chenyixing",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
   "repository": {
      "type": "git",
      "url": "git@github.com:daily11/ossmudule.git"
-  },
-  "author": {
-	 "name": "chenyixing",
-	 "email": "1663268062@qq.com"
   }
 }
